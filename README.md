@@ -13,8 +13,10 @@ and various commands using a web project.
 
 ## Purpose
 
+AS Started above, the main purpose is to provide simples examples for git trainning demos.
 
 ## Deployment
+This is a simple web project, Deployment can be on any server or even local file system.
 
 
 ## How TO Contribute
